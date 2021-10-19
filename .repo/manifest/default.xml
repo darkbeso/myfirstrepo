@@ -1,0 +1,7 @@
+<manifest>
+<remote  
+	name="notorigin"
+	fetch="https://github.com/darkbeso/myfirstrepo.git" />
+
+<default revision="refs/heads/master" remote="github" sync-j="4" />	
+</manifest>
